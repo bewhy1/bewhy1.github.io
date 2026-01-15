@@ -1,0 +1,6 @@
+# Chinese language configuration
+[zh-cn]
+languageName = "中文"
+languagedirection = "ltr"
+title = "Bewhy的个人主页"
+weight = 1

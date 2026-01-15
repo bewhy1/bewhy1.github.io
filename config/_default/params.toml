@@ -9,12 +9,12 @@ since = 2020
 customText = ""
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "2006年01月02日"
+lastUpdated = "2006年01月02日 15:04"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "😀"
+subtitle = "专注技术音频与游戏音效，分享音频开发与创作心得"
 
 [sidebar.avatar]
 enabled = true
